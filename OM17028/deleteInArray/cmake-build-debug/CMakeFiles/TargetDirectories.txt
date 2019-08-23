@@ -1,0 +1,3 @@
+/home/jose/CLionProjects/deleteInArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jose/CLionProjects/deleteInArray/cmake-build-debug/CMakeFiles/deleteInArray.dir
+/home/jose/CLionProjects/deleteInArray/cmake-build-debug/CMakeFiles/edit_cache.dir

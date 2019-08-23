@@ -1,0 +1,14 @@
+int:
+2 bytes o una palabra (varía según compilador).
+
+char:
+1 byte.
+
+float:
+1 palabra (4 bytes).
+
+double:
+2 palabras (8 bytes).
+
+void:
+Se utiliza para definir una función que no devuelve ningún valor o declarar punteros genéricos (lo veremos más tarde). 	
